@@ -1,0 +1,29 @@
+.text{
+   color: chocolate;
+   font-size:100px;
+   font-family: "Dancing Script", cursive;
+}
+.image-size{
+width: 100%;
+}
+.logo-size{
+    width: 20%;
+}
+.bord{
+    border-radius: 60px;
+    padding-left: 10%;
+}
+.taille-button{
+    width: 100%;
+}
+.taille-button::placeholder{
+    color: rgb(147, 146, 146);
+}
+.icone1-position{
+position: absolute;
+margin-top: 10px;
+}
+.icone2-position{
+    position: absolute;
+    margin-top: 10px;
+    }
